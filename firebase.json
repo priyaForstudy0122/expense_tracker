@@ -1,1 +1,36 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"expense-tracker-priya-0122","appId":"1:115028406400:android:705bb2d2dc4d0a4469f665","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"expense-tracker-priya-0122","configurations":{"android":"1:115028406400:android:705bb2d2dc4d0a4469f665","web":"1:115028406400:web:5c7bfa5d78474dc369f665"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "expense-tracker-priya-0122",
+          "appId": "1:115028406400:android:705bb2d2dc4d0a4469f665",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "expense-tracker-priya-0122",
+          "configurations": {
+            "android": "1:115028406400:android:705bb2d2dc4d0a4469f665",
+            "web": "1:115028406400:web:5c7bfa5d78474dc369f665"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
