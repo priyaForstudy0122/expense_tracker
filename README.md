@@ -2,9 +2,9 @@
 
 A clean expense tracker built with Flutter and Cloud Firestore, built as the practical task for the CyphLab Flutter Developer Internship.
 
-**Live demo:** <ADD_FIREBASE_HOSTING_LINK>
-**APK:** <ADD_APK_LINK>
-**Screen recording:** <ADD_VIDEO_LINK>
+**Live demo:** https://priyaforstudy0122.github.io/expense_tracker/
+**APK:** (https://drive.google.com/file/d/1AreFwiXKbBZSqpHTDZsFZiXQgpxRKkqE/view?usp=drivesdk)
+**Screen recording:** (https://drive.google.com/file/d/1nitx54ifD1R22R11ZeRvkr5JaoVoHzJF/view?usp=drivesdk)
 
 ## Features
 - Add, edit and delete expenses (swipe left or tap the bin icon to delete)
